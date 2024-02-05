@@ -53,10 +53,12 @@ export default function Page() {
           <>
             <img
               className="h-[200px]"
-              style={{ width: "400x", height: "240px" }}
+              style={{ width: "400x", height: "240px" , marginTop: "-15vh" }}
               src="https://gifdb.com/images/high/cute-love-bear-roses-ou7zho5oosxnpo6k.gif"
             />
-            <h1 className="text-container">Will you be my Valentine?</h1>
+            <h1 
+              style= {{ textAlign: 'center' }} 
+              className="text-container"> Would You love to be mine Chickoo Baby? <br/> Baby Girl !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! 😁 <br/> Guddaaaaaaaaaaaaaaaaaaaaaaa Melaaaaaaaaaaaaa 🤩🤩🤩🤩🤩🤩🤩 <br/> 😍💕😘🥰💗💞💌❣️💖😻</h1>
             <div>
               <button
                 className={"yes-button"}
